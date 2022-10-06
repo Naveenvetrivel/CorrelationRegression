@@ -24,4 +24,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 
-# Results and Output : 
+# Output : 
+![image](https://user-images.githubusercontent.com/94165322/194222395-fd04786b-db2c-4870-a235-7fb22330d2f7.png)
+
+# RESULT:
+Thus, the program to analyse given data using coeffificient of correlation and regression line is implemented.
